@@ -22,3 +22,6 @@ end
 get '/block_first'do
 	'4만원'
 end
+get '/block_first*2'do
+	'8만원'
+end
