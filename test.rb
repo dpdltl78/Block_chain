@@ -16,3 +16,6 @@ end
 get '/chorong'do
 	'Sanguijung!'
 end
+get '/block_chain'do
+	'70만원'
+end
