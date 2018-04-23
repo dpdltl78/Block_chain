@@ -19,3 +19,6 @@ end
 get '/block_chain'do
 	'70만원'
 end
+get '/block_first'do
+	'4만원'
+end
