@@ -13,15 +13,19 @@ end
 get '/frank-says'do
 	'put this in your pipe & smoke it!'
 end
+
 get '/chorong'do
 	'Sanguijung!'
 end
+
 get '/block_chain'do
-	'70aa'
+	'70만원'
 end
+
 get '/block_first'do
-	'4bb'
+	'4만원'
 end
-get '/block_first*2'do
-	'8cc'
+
+get '/block_first_2'do
+	'8만원 '
 end
