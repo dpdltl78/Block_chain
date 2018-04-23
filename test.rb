@@ -17,11 +17,11 @@ get '/chorong'do
 	'Sanguijung!'
 end
 get '/block_chain'do
-	'70만원'
+	'70aa'
 end
 get '/block_first'do
-	'4만원'
+	'4bb'
 end
 get '/block_first*2'do
-	'8만원'
+	'8cc'
 end
