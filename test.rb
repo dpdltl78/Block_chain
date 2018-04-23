@@ -13,4 +13,6 @@ end
 get '/frank-says'do
 	'put this in your pipe & smoke it!'
 end
-
+get '/chorong'do
+	'Sanguijung!'
+end
